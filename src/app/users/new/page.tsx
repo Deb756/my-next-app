@@ -3,7 +3,7 @@ import React from 'react'
 const NewUserPage = () => {
   return (
     <div>
-      New User Page
+      Thhis is the user page click here
     </div>
   )
 }
